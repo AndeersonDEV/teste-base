@@ -1,5 +1,5 @@
-{
-  "projetos": [
+[ 
+  
     {
       "id": 1,
       "titulo": "Download XML",
@@ -22,5 +22,6 @@
       "motivo": "Desenvolvimento agendamento/célula fiscal"
     }
     
-  ]
-}
+  
+
+]
